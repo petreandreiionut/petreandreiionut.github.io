@@ -1,3 +1,8 @@
+<style>
+  .blue{
+  color: blue;
+  }
+</style>
 ## Welcome to My Portfolio
-This is a test<br>
+<div class="blue">This is a test</div>
 <img src="http://www.sevenoaksart.co.uk/images/undconstand.gif"/>
